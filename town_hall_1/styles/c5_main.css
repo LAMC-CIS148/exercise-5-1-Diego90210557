@@ -12,7 +12,8 @@ body {
 	margin-top:0;
 	margin-bottom:0;
 	margin-right:auto;
-	border-style:solid 3px;
+	border-style:solid;
+	border-size:3px;
 	border-color:#931420;
 	background-color:#fffded;
 }
