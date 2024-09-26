@@ -44,6 +44,9 @@ main {
 main h1 {
 	font-size: 150%;
 	padding: .3em 0;
+	bottom-border:3px;
+	top-border:3px;
+	border-color:#931420;
 }
 main h2 {
 	color: var(--global-color-1);
