@@ -25,9 +25,11 @@ header{
 	padding-top:1.5ems;
 	padding-bottom:2ems;
 	background:linear-gradient(#f6bb73 0%, #f6bb73 30%, white 50%,#f6bb73 80%,#f6bb73 100%)
+}
 header h2 {
 	font-size: 175%;
 	color: var(--global-color-1);
+	text-color:maroon;
 }
 header h3 {
 	font-size: 130%;
